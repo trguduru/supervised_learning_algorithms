@@ -1,1 +1,2 @@
-# supervised_learning_algorithms
+# Supervised Learning Algorithms
+This project provides examples for [supervised learning algorithms](https://scikit-learn.org/stable/supervised_learning.html) in [scikit-learn](https://scikit-learn.org/stable/index.html) library.
